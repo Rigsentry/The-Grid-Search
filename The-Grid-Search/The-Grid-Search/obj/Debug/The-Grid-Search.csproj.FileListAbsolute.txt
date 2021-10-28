@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Grid-Search\The-Grid-Search\The-Grid-Search\bin\Debug\The-Grid-Search.exe.config
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Grid-Search\The-Grid-Search\The-Grid-Search\bin\Debug\The-Grid-Search.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Grid-Search\The-Grid-Search\The-Grid-Search\bin\Debug\The-Grid-Search.pdb
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Grid-Search\The-Grid-Search\The-Grid-Search\obj\Debug\The-Grid-Search.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Grid-Search\The-Grid-Search\The-Grid-Search\obj\Debug\The-Grid-Search.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Grid-Search\The-Grid-Search\The-Grid-Search\obj\Debug\The-Grid-Search.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\The-Grid-Search\The-Grid-Search\The-Grid-Search\obj\Debug\The-Grid-Search.pdb
